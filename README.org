@@ -1,0 +1,5 @@
+* Trivialtests
+
+An utterly trivial test library.
+
+I'll make it better when I need more.
